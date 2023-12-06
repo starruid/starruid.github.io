@@ -1,0 +1,36 @@
+.nav_bar {
+    border-bottom: 7px solid #FAD4A5
+}
+
+.nav_bar a {
+    font-size: 24px;
+    text-decoration: none;
+
+}
+
+#title_name {
+    font-size: 4rem;
+    
+}
+
+.homepage_project_image {
+    align-content: center;
+    max-width: 300px;
+    padding: 7px;
+    background-color: #5E7A9F;
+
+}
+.project_card_name  {
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid #F1ECD9;
+    padding: 5px;
+}
+
+.project_card_about {
+    text-align: center;
+}
+
+.project_page_description {
+    margin-top: 1%;
+}
